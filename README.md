@@ -1,1 +1,5 @@
-# Library_Database
+# Library Database
+# This library management system provides an interface for adding, viewing, updating, and deleting books and customer records using Streamlit and SQLite. Each book entry includes a title, author, publication year, genre, total copies, and available copies. Books and customer details are stored in an SQLite database, allowing for efficient data management.
+# Users can search for books by author or genre, check out books by selecting available copies, and return books to update their availability. The system also tracks which customers have borrowed books, ensuring accurate record-keeping. Additionally, customer information, including name and email, can be managed through the interface.
+# With an intuitive web-based interface, users can navigate seamlessly between features, making book transactions and inventory management simple. Overall, this app streamlines library operations and enhances organization, making book tracking effortless!
+# Link to use this app: https://librarydatabase.streamlit.app/
